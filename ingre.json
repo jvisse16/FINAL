@@ -1,0 +1,19 @@
+{
+    "recetas": [
+        {
+            "nombre": "pasta Alfredo",
+            "ingredientes": ["Pasta", "Crema", "Queso Parmesano", "Ajo"],
+            "imagen": "pasta.jfif"
+        },
+        {
+            "nombre": "tacos al pastor",
+            "ingredientes": ["Carne de cerdo", "Piña", "Cebolla", "Cilantro"],
+            "imagen": "tacoss.jfif"
+        },
+        {
+            "nombre": "pizza margarita",
+            "ingredientes": ["Masa de pizza", "Tomate", "Mozzarella", "Albahaca"],
+            "imagen": "pizza.jfif"
+        }
+    ]
+}
